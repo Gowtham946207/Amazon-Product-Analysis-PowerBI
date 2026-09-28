@@ -336,33 +336,6 @@ This distinction is maintained to ensure that the dashboard calculations accurat
 
 ---
 
-## 📜 Attribution
-
-This project was developed using an existing Amazon sales Power BI project as a starting reference.
-
-Original project:
-
-```text
-Amazon-Sales-PowerBI-Project
-```
-
-The original project and applicable license terms should be retained where required.
-
-This version has been adapted as a personal Data Analyst portfolio project, including changes to:
-
-- Dashboard title
-- KPI calculations
-- DAX measures
-- Dashboard layout
-- Visualizations
-- Data analysis terminology
-- Documentation
-- Project organization
-
-See the included `LICENSE` file for applicable licensing information.
-
----
-
 ## 👨‍💻 Author
 
 **Gowtham S**
