@@ -252,14 +252,11 @@ Selecting a category or quarter dynamically updates the dashboard visuals and KP
 ```text
 Amazon-Product-Analysis/
 │
-├── data/
-│   └── Amazon_Combined_Data.xlsx
+├── Amazon_Combined_Data.xlsx
 │
-├── powerbi/
-│   └── Amazon_Product_Analysis.pbix
+├── Amazon_Product_Analysis.pbix
 │
-├── screenshots/
-│   └── amazon_product_analysis_dashboard.png
+├── amazon_product_analysis_dashboard.png
 │
 ├── README.md
 ├── LICENSE
