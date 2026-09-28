@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
