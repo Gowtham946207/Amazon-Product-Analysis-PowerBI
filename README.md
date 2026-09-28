@@ -362,5 +362,3 @@ This project demonstrates practical skills in **Power BI, DAX, data visualizatio
 The project shows how raw Excel data can be transformed into an interactive business intelligence dashboard.
 
 ---
-
-⭐ **Amazon Product Value & Performance Analysis — Power BI Portfolio Project**
